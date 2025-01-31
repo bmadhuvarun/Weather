@@ -42,4 +42,3 @@ Animated UI elements for a modern look.
 Conclusion
 The Weather App is a simple yet effective project that demonstrates API integration, real-time data fetching, and DOM manipulation. It is a great project for beginners and can be further improved with additional features. 🌍⛅
 
-Would you like help with deployment or enhancements? 🚀
